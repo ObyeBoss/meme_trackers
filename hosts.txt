@@ -77,3 +77,5 @@
 127.0.0.1 us.galleryfaceapi.micloud.xiaomi.net
 127.0.0.1 appbackupapi.micloud.xiaomi.net
 127.0.0.1 us.appbackupapi.micloud.xiaomi.net
+127.0.0.1 app.chat.global.xiaomi.net
+127.0.0.1 resolver.msg.global.xiaomi.net
