@@ -118,3 +118,5 @@
 127.0.0.1 srv.sec.intl.miui.com
 127.0.0.1 srv.sec.miui.com
 127.0.0.1 ts.market.mi-img.com
+127.0.0.1 ru.app.chat.global.xiaomi.net
+127.0.0.1 data.mistat.rus.xiaomi.com
